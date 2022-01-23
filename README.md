@@ -1,0 +1,2 @@
+# CodingChalanges
+Simple coding exercises
